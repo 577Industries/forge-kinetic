@@ -5,6 +5,9 @@
 
 # forge-kinetic
 
+> **Status (2026-10-15): generated design study, not evidence.** This repository was produced as a design study by a code-generation agent on 2026-10-13. Its benchmark tables, figures and numeric claims (precision, latency, clearance, timing, exception counts) are synthetic design targets emitted by the code itself, not measurements, and must not be cited as results. The maintained, measured implementation is being built in [577Industries/open-source](https://github.com/577Industries/open-source) under `programs/evolve` and `programs/kinetic`; measured results will be published there with run receipts. This repository is retained for provenance only.
+
+
 `KINETIC` · [Product page on 577industries.com](https://www.577industries.com/kinetic) · [Interactive 3D WebGL Studio](https://www.577industries.com/kinetic/studio) · [Work reference](https://www.577industries.com/work/forge-kinetic)
 
 **Physical AI, multi-sensor operating envelopes, redundant whole-body kinematics, 200 Hz 6-link swept-capsule collision avoidance, and hardware-agnostic Unified Robotic Task Specification (URTS) compilation.**
